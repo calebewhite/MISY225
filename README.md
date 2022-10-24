@@ -1,6 +1,6 @@
 # MISY225
 
-## Here is a sample of what I did with Python during 'MISY225: Intro to Programming Business Applications'.
+## Here is a sample of what I did with Python during 'MISY225: Intro to Programming Business Applications'
 
 # MISY225 Final Exam:
 (https://github.com/calebewhite/MISY225/blob/main/MISY225final.ipynb)
