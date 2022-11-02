@@ -13,7 +13,7 @@
 #Codecademy 'Musclehub' Project:
 (https://github.com/calebewhite/PythonProjects/blob/main/musclehubproject.ipynb)
 
-- Manipulated and marged dataframes for each step of sales funnel using Pandas
+- Manipulated and merged dataframes for each step of sales funnel using Pandas
 - Determined conversion rates at each step of sales funnel with Pandas
 - Performed chi-squared tests to identify significant differences in conversion rates at each step of funnel between two test groups using SciPy
 - Visualized differences in conversion rates between test groups for each step of funnel with PyPlot
