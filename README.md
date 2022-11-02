@@ -10,10 +10,8 @@
 - Manipulated national park observation data and merged with species data using Pandas
 - Visualized species per conservation status and observations of a species per park with PyPlot
 
-# MISY225 Final Exam:
-(https://github.com/calebewhite/MISY225/blob/main/MISY225final.ipynb)
+# MISY225 GUIs:
+(https://github.com/calebewhite/PythonProjects/blob/main/MISY225_GUIs.ipynb)
 
 - Created function and GUI to calculate interest on checking/savings accounts
 - Created function and GUI to create a custom pizza and return price
-- Created and transformed Pandas dataframe to produce informative pivot table
-- Queried Pandas dataframe for aggregate information
