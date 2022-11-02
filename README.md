@@ -1,6 +1,6 @@
 # Python Projects
 
-## Here is a sample of what I've done with Python 
+## Here is a sample of what I've done with Python. 
 
 # Codecademy 'Biodiversity' Project:
 (https://github.com/calebewhite/PythonProjects/blob/main/biodiversityproject.ipynb)
